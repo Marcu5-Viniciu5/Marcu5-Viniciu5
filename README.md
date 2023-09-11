@@ -1,7 +1,6 @@
-### Hi there 👋# Portfólio de [Seu Nome]
+### Hi there 👋# Portfólio de Marcus Vinicius Cavalcanti de Freitas 
 ## Estudante de Análise e Desenvolvimento de Sistemas
 
-![Foto](link_para_uma_foto_sua.jpg)
 
 ### Objetivos
 
@@ -48,13 +47,14 @@ Como estudante de Análise e Desenvolvimento de Sistemas com experiência como E
 - Segurança em Tecnologia da Informação - Fundação Bradesco
 - NANO COURSE CyberSecurity - Faculdade Fiap
 
-### Meu Perfil
+### Meu Perfil em Tecnologia e Cibersegurança
 
-- Atencioso
-- Comprometimento com as regras da empresa
-- Agilidade e boa compreensão das necessidades dos clientes
-- Responsável
-- Dinâmico
+Sou um estudante apaixonado por tecnologia e segurança cibernética, atualmente cursando Análise e Desenvolvimento de Sistemas. Minha jornada profissional começou como Escriturário Administrativo, onde desenvolvi habilidades de organização e resolução de problemas. No entanto, meu interesse em tecnologia me levou a um curso fullstack e a explorar o mundo da cibersegurança.
+
+Minhas qualificações incluem conhecimento em linguagens de programação, como HTML, CSS e Javascript, bem como uma compreensão sólida de análise de dados com o Power BI. Além disso, tenho me aprofundado em Segurança em Tecnologia da Informação e concluí um NANO COURSE em CyberSecurity na Faculdade Fiap.
+
+Como alguém comprometido com as melhores práticas de segurança, estou ansioso para aplicar meu conhecimento para proteger sistemas e dados contra ameaças cibernéticas. Minhas habilidades analíticas e capacidade de aprendizado rápido me tornam um membro valioso para qualquer equipe de segurança cibernética, e estou determinado a continuar crescendo nessa área emocionante e em constante evolução.
+
 
 
 <!--
